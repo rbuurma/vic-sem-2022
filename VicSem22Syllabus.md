@@ -44,6 +44,7 @@ some topics: surveillance; realism, sensation fiction, and the occult; technolog
 + Sukanya Banerjee, “Troubling Conjugal Loyalties”
 + Priya Joshi, Preface and Chapter 4, *In Another Country*
 + *Vanity Fair*, No. 2, 3 + 4 (chapters 5-14)
++ OPTIONAL, William Cohen, "Why is There So Much French in *Villette*?"
 
 writing:
 + discussion and outline: Cat, Simon
@@ -68,11 +69,11 @@ some topics: omniscience, free indirect discoure, and novelistic narrative;   so
 + *Vanity Fair* No. 5+6 (chapters 15-22)
 
 writing:
-+ discussion and outline: Flannery
++ discussion and outline: Flannery, Mariam
 + close reading: Joshua, Eva
 + criticism summary: Ethan
-+ seminar paper: Cat, Simon, Alexander 
-+ break:
++ seminar paper: Simon, Alexander
++ break: Rachel
 
 #### Week 5: September 26  Barchester Towers 2; novel theory 2
 
@@ -81,44 +82,48 @@ note: seminar starts at 2 pm today (Rosh Hashanah)
 some topics: fictionality and realism; novels and autobiographies; writing and authorship as work; publishing and precarity; series and serials; shared worlds; following up on narrative and surveillance; endings; race, disciplinarity, + Victorian studies
 
 + Anthony Trollope, *Barchester Towers* (final 1/3)
-+ Anthony Trollope, *An Autobiography* chapters 1-6, 12-15, + 20. (These chapters have you focusing on the part about his early life, the parts about the writing of the Barchester Chronicles, his discussion of the London literary scene, and the end.)
++ Anthony Trollope, *An Autobiography* SKIM chapters 1-6, 12-15, + 20. (These chapters have you focusing on the part about his early life, the parts about the writing of the Barchester Chronicles, his discussion of the London literary scene, and the end. To read that last chapter and especially the last page carefully.)
 + Catherine Gallagher, from *Desire and Domestic Fiction*
-+ Nancy Armstrong, from *The Rise of Fictionality*
-+ Roland Barthes, “The Reality Effect” (and handout explaning Saussure)
-+ Fredric Jameson, "The Realist Floor-plan"
++ Nancy Armstrong, from *The Rise of Fictionality*, pp. 336-349, 361 ONLY
++ Roland Barthes, “The Reality Effect” (and handout explaning how signs unfunction according Saussure)
++ Fredric Jameson, "The Realist Floor-plan" (short but difficult)
 + D. A. Miller, BT chapter from *The Novel and the Police*
 + Ronjaunee Chatterjee, Alicia Mireles Christoff and Amy R. Wong, "Undisciplining Victorian Studies"
-+ look at ["Undiscipling the Victorian Classroom"](https://undiscipliningvc.org/index.html#:~:text=Introduction,positive%2C%20race%2Dconscious%20lens.) project
-+ Nassar Mufti, "Hating Victorian Studies Properly"
++ OPTIONAL look at ["Undiscipling the Victorian Classroom"](https://undiscipliningvc.org/index.html#:~:text=Introduction,positive%2C%20race%2Dconscious%20lens.)project
++ OPTIONAL: Chris Skilton Trollope Society Lecture, a 30-minute video lecture "guide to roles, ambition, titles, politics, service and hierarchy in the Church of England of Trollope’s day" https://trollopesociety.org/lectures/talks/clergymen-of-the-victorian-church/
++ FURTHER BACKGROUND/OPTIONAL: Trollope's essay collection *Clergymen of the Church of England* (via HathiTrust) https://hdl.handle.net/2027/mdp.39015043091845
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Eva, Mariam
++ close reading: Ethan, Alexander
++ criticism summary:Joshua, Mariam, Simon
++ seminar paper: Cat, Flannery
++ break: Alexander
 
 #### Week 6: October 3  *Vanity Fair* in medias res
 
-some topics: class and class critque; Marxism and Communism; empire; CLR James as a reader of *Vanity Fair*
+some topics: narration; class and class critque; Marxism and Communism; empire; CLR James as a reader of *Vanity Fair*
 
 + Vanity Fair, No. 7-12 (chapters 23-42)
-+ brief excerpts from *The Book of Snobs*
-+ CLR James interviewed by Tariq Ali https://www.marxists.org/archive/james-clr/works/1980/07/tariq-ali.htm
++ [*The Book of Snobs*](https://hdl.handle.net/2027/hvd.32044020405510) (just take a quick look to get the idea)
 + excerpt from CLR James, *The Black Jacobins*
-+ Marx and Engels, *The Manifesto of the Communist Party*
++ brief excerpts from CLR James's *Beyond a Boundary* (in Dropbox PDF)
++ brief excerpts [CLR James interviewed by Tariq Ali](https://www.marxists.org/archive/james-clr/works/1980/07/tariq-ali.htm) (in Dropbox PDF)
++ Marx and Engels, *The Manifesto of the Communist Party*, [first 2 pages of the first English edition](https://hdl.handle.net/2027/pst.000055408905?urlappend=%3Bseq=189%3Bownerid=13510798902063177-195), translated by Helen Macfarlane and published serially in Chartist periodical [*The Red Republican*](https://hdl.handle.net/2027/pst.000055408905)
++ Wikipedia entry for [Chartism]()
 + Timothy Gao, "Continuation, Attachment, and William Makepeace Thackeray"
 + Andrew Miller, "Vanity Fair Through Plate Glass"
-+ essay on the illustrations tbd
-+ Amanpal Garcha, excerpt from *From Sketch to Novel*
 + Carolyn Betensky, "Casual Racism in Victorian Literature"
++ OPTIONAL: Amanpal Garcha, *Forgetting Thackeray and Unmaking Careers*
+
+https://en.wikipedia.org/wiki/Chartism
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Alexander, Ethan
++ close reading: Cat, Joshua
++ criticism summary: Simon, Flannery, Mariam
++ seminar paper: Eva
++ break: Flannery
 
 *SHS paper assigned*
 
@@ -134,44 +139,43 @@ some topics: interiority; women's writing; careers, women, money; Trollope and/v
 + Oliphant, excerpt from *An Autobiography*
 + Oliphant, "The Library Window"
 + Megan Ward, from *Seeming Human* (short section on *Miss Marchbanks*)
-+ optional: Joanne Shattock, "Margaret Oliphant and the Changing World of Victorian Journalism"
 + Catherine Gallagher, "The Rise of Fictionality" (return)
-+ Reviews of *Miss Marjoribanks*
++ Review of *Miss Marjoribanks*
++ optional: Joanne Shattock, "Margaret Oliphant and the Changing World of Victorian Journalism"
++ Nassar Mufti, "Hating Victorian Studies Properly"
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Rachel
++ close reading: Cat, Ethan
++ criticism summary: Flannery, Alexander
++ seminar paper: Eva, Joshua
++ break: Ethan
 
 #### Week 9: October 24: Charles Dickens, *Our Mutual Friend*
 
 some topics: salvage, waste and recycling; commodity fetishism; gender and sexuality; class and consumerism; Marx and Marxism;
 
-+ OMF 1-306
++ *Our Mutual Friend* 1-306
 + Eve Sedgwick, Preface, Intro, and OMF chapter of *Between Men*
 + Elizabeth Womack, "Victorian Miser Texts and Potential Energy"
-+ optional: Talia Schaffer, "Salvage" from *Novel Craft*
-+ additional essay
 + Karl Marx on commodity fetishism
-+ from Henry Mayhew, London Labour and the London Poor
++ selections from Henry Mayhew, *London Labour and the London Poor*
 + *Vanity Fair* No. 13-14 (chapters 43-50)
++ optional: Talia Schaffer, "Salvage" from *Novel Craft*
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Joshua, Simon
++ close reading: Flannery, Simon
++ criticism summary: Eva, Ethan
++ seminar paper: Alexander, Cat
++ break: Simon
 
 #### Week 10: October 31: Dickens
 
 some topics: notes, note-taking, realims, detail, revision, writing
 
-+ OMF 307-617
++ *Our Mutual Friend* 307-617
 + [E.S. Dallas review of OMF](https://omf.ucsc.edu/publication/reviews/es-dallas.html)
-+ selections from Sylvère Monod’s *Charles Dickens, Novelist* (1953)
 + selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
 + selections from Harry Stone ed., *Dickens’s Working Notes for His Novels*
 + Roland Barthes, from *the Preparation of the Novel*
@@ -181,17 +185,17 @@ some topics: notes, note-taking, realims, detail, revision, writing
 + *Vanity Fair* No. 15 (chapters 51-53)
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Flannery, Eva
++ close reading: Joshua, Simon
++ criticism summary: Cat, Simon, Joshua
++ seminar paper: Ethan, Alexander
++ break: Rachel
 
 #### Week 11: November 7: Dickens
 
 some topics: authorship, reading, performance, biography, bildungsroman, Dickens’s life and work, Victorian childhoods, literacy, education, emigration
 
-+ OMF 618-822
++ *Our Mutual Friend* 618-822
 + Sarah Winter, "Learning by Heart in Our Mutual Friend"
 + Daniel Pollack-Pelzner, "Performance Anxiety in *Our Mutual Friend*"
 + Malcolm Andrews, Charles Dickens and His Performing Selves, short intro, preface, and chapter 2
@@ -199,11 +203,11 @@ some topics: authorship, reading, performance, biography, bildungsroman, Dickens
 + *Vanity Fair* No. 16 (chapters 54-56)
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Cat, Alexander
++ close reading: Eva, Ethan
++ criticism summary:Flannery, Joshua
++ seminar paper: Simon, Mariam
++ break:Flannery
 
 #### Week 12: November 14: "The Lifted Veil" and "Brother Jacob," begin *Middlemarch*
 
@@ -211,20 +215,21 @@ some topics: realism and the occult, information theory, narration, omniscience,
 
 + "The Lifted Veil" and "Brother Jacob"
 + take a look at the *Blackwood's Magazine* publication of "The Lifted Veil," compare paratext to printed edition
-+ begin *Middlemarch* (through at least Book 1)
++ Alisha Walters, "The “Sallow Mr. Freely”: Sugar, Appetite, and Unstable Forms of Whiteness in George Eliot's “Brother Jacob”""
 + Jonathan Culler, "Omniscience"
 + Terry Eagleton, "Power and Knowledge in 'The Lifted Veil'" (1983)
 + Jill Galvan, "The Narrator as Medium in George Eliot" (2006)
 + Thomas Albrecht, "Sympathy and Telepathy" (2006)
 + Richard Menke, "Chapter 4: Information Unveiled" (2008)
 + *Vanity Fair* No. 17 (No 57-60)
++ begin *Middlemarch* (through at least Book 1, more if possible)
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Joshua, Ethan
++ close reading: Simon
++ criticism summary: Cat, Alexander
++ seminar paper: Flannery, Ethan
++ break: Simon
 
 #### Week 13: November 21: *Middlemarch*
 
@@ -239,11 +244,11 @@ some topics:
 + essay tbd
 
 writing:
-+ discussion and outline:
-+ close reading:
++ discussion and outline: Rachel
++ close reading: Flannery, Cat, Alexander
 + criticism summary:
-+ seminar paper:
-+ break:
++ seminar paper: Eva
++ break: Rachel
 
 #### Week 14: November 28: *Middlemarch*
 
@@ -261,11 +266,11 @@ writing:
 + *Vanity Fair*, No. 18 (chapters 61-63)
 
 writing:
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Simon, Flannery
++ close reading: Flannery, Eva, Joshua
++ criticism summary: Alexander, Ethan, Eva, Simon
++ seminar paper: Joshua
++ break: Ethan
 
 ***SHS drafts due Thursday, December 1st***
 
